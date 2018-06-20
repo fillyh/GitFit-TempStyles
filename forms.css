@@ -1,0 +1,51 @@
+/* Register & Getting Started Section */
+.body-section{
+  height:90vh;
+  /* background-image: url("../img/fitness-equip.jpg"); */
+    background-image: url("../img/gitfit-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.register-form{
+  font-family: var(--main-font);
+  font-weight: 300;
+}
+
+.register-form h2{
+  padding-bottom: 40px;
+}
+
+.register-box{
+  padding: 40px;
+  margin-top: 40%;
+  background-color:#fff;
+  box-shadow:var(--box-shadow);
+  border-radius: var(--rounded-corners);
+}
+
+.my-btn{
+  font-size: 20px;
+  box-shadow: var(--button-shadow);
+  text-align: center;
+  width:100%;
+  font-family: var(--main-font);
+  background-color: var(--button-green);
+}
+
+.dot{
+ width: 12px;
+ height:12px;
+ border-radius: 50%;
+ display: inline-block;
+ background-color:var(--soft-grey);
+ margin: 0 5px;
+}
+
+.dot-active{
+  background-color: var(--button-green);
+}
+.dot-indicators{
+  margin-top: 20px;
+}
