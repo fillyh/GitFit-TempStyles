@@ -1,6 +1,5 @@
 /* Register & Getting Started Section */
 .body-section{
-  height:90vh;
   /* background-image: url("../img/fitness-equip.jpg"); */
     background-image: url("../img/gitfit-bg.jpg");
   background-position: center;
@@ -19,7 +18,7 @@
 
 .register-box{
   padding: 40px;
-  margin-top: 40%;
+  margin: 50% 0;
   background-color:#fff;
   box-shadow:var(--box-shadow);
   border-radius: var(--rounded-corners);
