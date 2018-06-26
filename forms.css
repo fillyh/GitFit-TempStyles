@@ -48,3 +48,15 @@
 .dot-indicators{
   margin-top: 20px;
 }
+
+.step1-hide{
+  display:none;
+}
+
+.step2-hide{
+  display:none;
+}
+
+.step2-display{
+  display: none;
+}
