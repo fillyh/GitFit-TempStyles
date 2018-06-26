@@ -4,6 +4,7 @@
     let stepTwo = document.getElementById("stepTwo");
     stepOne.style.display = "none";
     stepTwo.style.display = "block";
+    event.preventDefault();
   });
 
   }
